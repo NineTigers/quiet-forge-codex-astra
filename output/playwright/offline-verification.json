@@ -1,0 +1,22 @@
+{
+  "offlineFileOpen": true,
+  "externalRequests": [],
+  "errors": [],
+  "state": {
+    "ready": true,
+    "strikes": 0,
+    "impacts": 0,
+    "audio": false,
+    "locked": false,
+    "width": 1440,
+    "height": 960,
+    "drawCalls": 375,
+    "triangles": 144126,
+    "fps": 40,
+    "lockError": null,
+    "yaw": 0,
+    "pitch": -0.19,
+    "webgl2": true
+  },
+  "bytes": 711483
+}

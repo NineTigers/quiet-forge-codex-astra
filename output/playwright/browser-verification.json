@@ -1,0 +1,11 @@
+{
+  "browser": "Chromium",
+  "mouseLook": true,
+  "pointerLock": true,
+  "clickImpact": true,
+  "rapidClickGuard": true,
+  "escape": true,
+  "mute": true,
+  "resize": true,
+  "runtimeErrors": []
+}
